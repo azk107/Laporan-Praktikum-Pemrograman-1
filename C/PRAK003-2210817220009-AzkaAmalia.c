@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main()
 {
-    printf ("Andi berkata \"Saya Pasti Bisa\"");
+    printf ("Andi Berkata \"Saya Pasti Bisa\"");
 }
