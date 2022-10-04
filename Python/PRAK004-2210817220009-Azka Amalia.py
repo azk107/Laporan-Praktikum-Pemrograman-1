@@ -1,0 +1,6 @@
+print("#################\n")
+print("#               #\n")
+print("#  Azka Amalia  #\n")
+print("# 2210817220009 #\n")
+print("#               #\n")
+print("#################\n")
